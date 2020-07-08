@@ -1,8 +1,10 @@
 # Send-contact-form-with-PHP-and-HTML
+##
 
 ##create email from your domain and place it at EMAIL_MEUDOMINIO@MEUDOMINIO.COM
 
 $from = "EMAIL_MEUDOMINIO@MEUDOMINIO.COM";
+##
 
 ##put the email you want to send for your control is EMAIL_QUE_VAI_ENVIAR@gmail.com.
 
